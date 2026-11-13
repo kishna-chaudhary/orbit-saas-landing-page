@@ -33,6 +33,4 @@ The demo form validates input in the browser and displays a success confirmation
 - The pricing switch updates the displayed per-seat prices. The demo form checks required fields and email format before showing confirmation.
 - Reduced-motion preferences are respected, and the navigation and form remain usable with a keyboard.
 
-## Screenshots
 
-Open the page at desktop and mobile widths in your browser and capture screenshots for your submission. The page is self-contained and requires no accounts, API keys, or backend services.
